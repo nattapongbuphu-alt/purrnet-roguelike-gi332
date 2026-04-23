@@ -270,10 +270,11 @@ MonoBehaviour:
   _directChildren: []
   _networkRules: {fileID: 0}
   _visitiblityRules: {fileID: 0}
-  aliveState: {fileID: 0}
+  aliveState: {fileID: 7271129160819674816}
   reviveDistance: 2
   reviveTime: 3
   graphics: {fileID: 1981138710605922554}
+  reviveUI: {fileID: 125480711484573271}
   components:
   - {fileID: -1788712371832548036}
   - {fileID: 3243023754365409636}
